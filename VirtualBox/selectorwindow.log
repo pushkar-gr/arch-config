@@ -1,0 +1,23 @@
+00:00:00.129865 VirtualBox GUI VM Selector Window 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.129866 Log opened 2025-03-22T12:13:23.363077000Z
+00:00:00.129866 Build Type: release
+00:00:00.129867 OS Product: Linux
+00:00:00.129868 OS Release: 6.13.7-arch1-1
+00:00:00.129868 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 13 Mar 2025 18:12:00 +0000
+00:00:00.129882 DMI Product Name: Victus by HP Gaming Laptop 15-fa0xxx
+00:00:00.129886 DMI Product Version: 
+00:00:00.129888 Firmware type: UEFI
+00:00:00.130032 Secure Boot: Disabled
+00:00:00.130052 Host RAM: 15653MB (15.2GB) total, 11286MB (11.0GB) available
+00:00:00.130053 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.130054 Process ID: 84210
+00:00:00.130054 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.130065 Qt version: 6.8.2
+00:00:00.130407 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.132609 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.417034 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.234438 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 959x539 x 800x800
+00:00:05.234483 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 959x539 x 800x800
+00:00:06.257622 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:01:37.677988 GUI: UICommon: Handling aboutToQuit request..
+00:01:38.540763 GUI: UICommon: aboutToQuit request handled!
